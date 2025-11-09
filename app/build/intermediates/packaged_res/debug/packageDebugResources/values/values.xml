@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="habit_units">
+        <item>ml</item>
+        <item>l</item>
+        <item>kg</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>  </string-array>
+    <string-array name="report_filters">
+        <item>Day</item>
+        <item>Week</item>
+        <item>Month</item>  </string-array>
+    <color name="accent">#1976D2</color>
+    <color name="accent_orange">#FF5722</color>
+    <color name="accent_pink">#E91E63</color>
+    <color name="accent_purple">#9C27B0</color>
+    <color name="accent_yellow">#FFC107</color>
+    <color name="background">#F5F5F8</color>
+    <color name="black">#000000</color>
+    <color name="caption1_color">#3A7853</color>
+    <color name="caption_color">#808080</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_shadow">#E5E5E5</color>
+    <color name="divider">#DDDDDD</color>
+    <color name="mood_border">#BDBDBD</color>
+    <color name="mood_happy_bg">#E8F5E9</color>
+    <color name="mood_ok_bg">#E3F2FD</color>
+    <color name="mood_sad_bg">#FFF3E0</color>
+    <color name="my_primary_text">#23611D</color>
+    <color name="primary">#388E3C</color>
+    <color name="primary_text">#222B2E</color>
+    <color name="primary_variant">#23611D</color>
+    <color name="secondary_text">#444444</color>
+    <color name="toolbar_bg">#388E3C</color>
+    <color name="toolbar_text">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">WellNest App</string>
+    <string name="habit_cancel">Cancel</string>
+    <string name="habit_confirm">Confirm</string>
+    <string name="habit_goal">Goal</string>
+    <string name="habit_goal_hint">e.g. Stay hydrated</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="habit_name_hint">e.g. Drink Water</string>
+    <string name="habit_reminder_hint">Select time</string>
+    <string name="habit_reminder_time">Reminder Time</string>
+    <string name="habit_target_amount">Target Amount</string>
+    <string name="habit_target_hint">e.g. 2000</string>
+    <string name="habit_unit_label">Select Unit</string>
+    <string name="hello_blank_fragment"/>
+    <style name="Base.Theme.WellNestApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.WellNestApp" parent="Base.Theme.WellNestApp"/>
+</resources>
