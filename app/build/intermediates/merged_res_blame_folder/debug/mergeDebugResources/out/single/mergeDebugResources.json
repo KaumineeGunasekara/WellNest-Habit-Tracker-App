@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_box.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\box.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_dialog_add_mood.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\dialog_add_mood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_cross.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\cross.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_timer_icon.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\timer_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_item_habit_goal.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\item_habit_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.wellnestapp-debug-35:/layout_dialog_add_mood.xml.flat",
+        "source": "com.example.wellnestapp-main-37:/layout/dialog_add_mood.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_tick.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\tick.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_tips_icon.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\tips_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_activity_launch_page.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\activity_launch_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_calender_icon.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\calender_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_launch_img.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\launch_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_day_border.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\day_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_fragment_timer.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\fragment_timer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_selected_color_border.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\selected_color_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_fragment_report.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\fragment_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_fragment_new_habit.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\fragment_new_habit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-debug-35:\\drawable_report_icon.png.flat",
+        "source": "C:\\Users\\Kauminee Gunasekara\\.gradle\\daemon\\8.13\\com.example.wellnestapp-main-37:\\drawable\\report_icon.png"
+    }
+]
