@@ -3,6 +3,7 @@ WellNest is a smart and intuitive Android application built to help users create
 The calendar-based history feature allows users to filter their activity and mood logs by day, month, or year. This makes it effortless to review what habits were completed and when, strengthening the ability to reflect on long-term patterns and progress. Logging moods is designed to be quick and engaging; simply shake your phone to bring up an emoji picker and record how you’re feeling.
 
 WellNest also comes with a built-in timer, helping users focus during habit sessions and measure the time spent on various activities. Smart notifications gently nudge users to stay on track, making sure their wellness journey continues without interruption. Altogether, WellNest combines convenience, clarity, and motivation—empowering users to build healthier routines and achieve lasting well-being.
+
 ---
 
 ## 👩‍💻 Author
